@@ -1,4 +1,4 @@
-# smart-electricity-meter
+# Smart-electricity-meter
 
 The Smart Electricity Meter is created to monitor the usage of Electric Units efficiently. 
 It is a sample code for the basic working of a smart electric meter.
